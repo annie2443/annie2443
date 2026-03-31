@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently pursuing MCA <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with DATA SCIENCE<br>🌱 I’m currently learning..<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently pursuing MCA with a strong focus on Data science and AI
+👯 I’m looking to collaborate on Data Science, Machine Learning, and real-world analytics projects
+🤝 I’m looking for help with advanced Data Science concepts, model optimization, and real-world problem solving
+🌱 I’m currently learning  Machine Learning, and building end-to-end data projects
+💬 Ask me about Data Analysis, EDA, Python, SQL, and beginner-friendly ML concepts
+⚡ Fun fact: I enjoy turning raw data into meaningful insights and building AI-powered solutions 🚀
 
 
 ## 🌐 Socials:
